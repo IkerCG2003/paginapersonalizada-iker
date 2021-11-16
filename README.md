@@ -1,38 +1,11 @@
-1. Las frases **Combinator selectors**, **Pseudo-class selectors**, **Pseudo-elements selectors** y **Attribute selectors**, encontradas en el documento `html`, han de estar vinculadas (utilizar la etiqueta `a`) a los siguientes enlaces:
+1. ponerle la fuente de letra que quieras.
+2. relleno del 10% izquierda y derecha.
+3. tamaño de letra del parrafo de 18px.
+4. los h1 alineados al centro, con un tamaño de letra de 50px y un borde de 5px.
+5. los h2 con un tamaño de 30px, con el color de fondo gris, y un borde de 5px.
+6. los h3 con un tamaño de 25px, con el color de fondo gris oscuro y un borde de 5px.
+7. los párrafos hijos de h3 tienen que tener un tamaño de letra de 20px.
+8. el texto del span es blanco, un color de fondo negro y un borde de 5px.
+9. las imagenes han de tener un ancho del 50%, un borde solido cyan oscuro de 1px y un borde de 5px.
+10. el id presentación tiene un ancho de 75%, una altura del 50% y que el display sea flex.
 
-    * https://www.w3schools.com/css/css_combinators.asp
-    * https://www.w3schools.com/css/css_pseudo_classes.asp
-    * https://www.w3schools.com/css/css_pseudo_elements.asp
-    * https://www.w3schools.com/css/css_attribute_selectors.asp
-
-2. Utilizar [Google Fonts](https://fonts.google.com/) para cambiar el tipo de fuente del documento
-
-3. Utilizar [Font Awesome](https://fontawesome.com/) para añadir un icono de página
-
-4. Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
-
-    * Regla 1. Utilizar el selector universal `*` para cambiar el tipo de fuente del documento
-
-    * Regla 2. El elemento `body` tendrá margen `0` y relleno de `20%` únicamente a la derecha y izquierda
-    
-    * Regla 3. Los elementos `h1` estarán subrayados (`text-decoration: underline;`), de color `darkcyan` y alineados al centro
-
-    * Regla 4. Los elementos con clase `selector` tendrán color `lightcyan`
-
-    * Regla 5. Los elementos con clase `selectors` tendrán un relleno de 5%, un `border: solid darkcyan 1px;` y esquinas redondeadas `border-radius` con valor de `5px`
-    
-    * Regla 6. Los elementos con identificador (id) `universal` tendrán color `lightgoldenrodyellow` 
-    
-    * Regla 7. Los elementos `h2` con clase `selector` y los elementos `h2` con identificador (id) `universal` tendrán color de fondo `darkcyan`, relleno de `1%` y esquinas redondeadas con valor de `5px`
-    
-    * Regla 8. Los elementos `span` tendrán `font-weight: 900;` color de fondo negro y color de texto blanco
-    
-    * Regla 9. Los elementos `a` que sean hijos directos de algún `li` tendrán `text-decoration: none`
-    
-    * Regla 10. Los elementos `h3` tendrán color de fondo `background-color: rgba(0, 139, 139, 0.529);`, relleno de `0.5px` y esquinas redondeadas con valor de `5px`
-    
-    * Regla 11. Los elementos `div` que sean descendientes de un elemento con id gallery tendrán un ancho `width` de `100%`
-    
-    * Regla 12. Los elementos `img` tendrán un ancho `width` de `100%`, un `border: solid darkcyan 1px;` y esquinas redondeadas con valor de `5px`
-
-5. Utilizar GitHub Pages para desplegar la web en internet
